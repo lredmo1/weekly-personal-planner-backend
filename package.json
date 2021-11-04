@@ -1,0 +1,14 @@
+{
+  "name": "phase-2-project-backend",
+  "version": "1.0.0",
+  "description": "backend server for phase 2 project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
